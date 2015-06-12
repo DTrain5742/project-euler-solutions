@@ -15,6 +15,7 @@ int main(void)
 		if (i % 3 == 0) //multiple of 3
 		{
 			sum += i;
+		}
 		else if (i % 5 == 0) //multiple of 5 but not 3
 		{
 			sum += i;
