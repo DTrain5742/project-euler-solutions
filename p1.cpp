@@ -23,5 +23,5 @@ int main(void)
 	}
 
 	cout << "The sum of all multiples of 3 or 5 below ";
-	cout << LARGENUMBER " is " << sum << endl;
+	cout << LARGENUMBER << " is " << sum << endl;
 }
